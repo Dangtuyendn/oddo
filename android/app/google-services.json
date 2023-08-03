@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "943255147877",
+    "project_id": "gwms-ec4db",
+    "storage_bucket": "gwms-ec4db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943255147877:android:4e2bdb6c189a98d81e3d8c",
+        "android_client_info": {
+          "package_name": "com.g.wms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943255147877-ofgto5fbn22nbn8ali7h6jq4ajv1tevj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaGNKJtu3u_xZ8B-Mn8B8kkatZDz84AxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943255147877-ofgto5fbn22nbn8ali7h6jq4ajv1tevj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "943255147877-dp3ddlok7v2k3k6he7oopu4e3qk6bpsu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.erptoancau.wms",
+                "app_store_id": "6443556459"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

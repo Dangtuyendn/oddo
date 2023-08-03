@@ -1,0 +1,22 @@
+{
+    "splashTitle": "G-ODOO",
+    "splashLogoImage": "assets/images/csform_logo.png",
+    "splashScreenDuration": 2,
+
+    "loginWelcome": "Welcome!\nPlease login.",
+    "listProtocol": ["http", "https"],
+    "defaultProtocol": "http",
+    "defaultHost": "192.168.0.199:8069",
+    "userBot": "thanhhai41280@gmail.com",
+    "passBot": "123",
+
+    "listLangs": ["vi_VN", "en_US"],
+    "defaultLang": "vi_VN",
+    
+    "requestTimeOut": 30,
+
+    "maxSizeImage": 4069000,
+    "imageQuality": 25,
+
+    "hostLine": "0912345678"
+}
